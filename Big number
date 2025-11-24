@@ -1,0 +1,12 @@
+#include<stdio.h>
+#include<conio.h>
+void main() 
+{
+int a, b;
+clrscr() ;
+a=100;
+b=200;
+(a>b)? printf("big number is%d", a) ;
+printf("big numbers is%d", b);
+getch() ;
+}
